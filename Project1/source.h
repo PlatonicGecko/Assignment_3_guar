@@ -1,4 +1,4 @@
 #pragma once
 
 
-char shoot(char p1[], char p2[]);
+char* shoot(char p1[], char p2[]);
